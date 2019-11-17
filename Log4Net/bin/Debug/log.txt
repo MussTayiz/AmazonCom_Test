@@ -1,0 +1,7 @@
+2019-11-17 22:45:08,106 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - Success
+2019-11-17 22:45:31,025 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - Login is Success
+2019-11-17 22:46:10,391 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - New shopping list created.
+2019-11-17 22:47:18,935 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - New Idea list added.
+2019-11-17 22:47:56,953 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - Idea list has been moved to wish list.
+2019-11-17 22:48:30,154 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - Idea list deleted from wish list.
+2019-11-17 22:55:36,302 [NonParallelWorker] INFO  Log4Net.Tests [(null)] - ASIN value was obtained to find the product directly in the search.
